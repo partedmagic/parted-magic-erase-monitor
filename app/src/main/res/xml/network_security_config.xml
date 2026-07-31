@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PM Report Servers live on the LAN and speak plain HTTP; permit
+     cleartext so http://192.168.x.x:8341 works. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
