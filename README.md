@@ -2,7 +2,7 @@
 
 Android companion app for the **PM Report Server**
 (`pmagic_report_server`), which ships with
-[Parted Magic](https://partedmagic.com/). It watches live secure-erase
+[Parted Magic](https://erasestation.com/). It watches live secure-erase
 sessions on your own network and raises phone notifications when a
 drive fails, a session stalls, or a job finishes — including while the
 phone is in a pocket during a multi-hour rack wipe.
@@ -125,4 +125,4 @@ icon so nobody mistakes it for Parted Magic software.
 
 Bug reports and patches for the app are welcome here. Questions about
 Parted Magic itself, the erase utility, or licensing belong on the
-[Parted Magic support page](https://partedmagic.com/support/).
+[Parted Magic support page](https://erasestation.com/support/).
